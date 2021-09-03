@@ -30,9 +30,9 @@ Throughout the completion of this project you must adhere to the [community guid
 
 In this lab you will continue with the Linux exploration, specifically by learning how to send and receive shells when exploiting target machines, exploring common Linux privilege escalation vulnerabilities and techniques. You are invited to complete three rooms connected to these topics, which correspond to TryHackMe assignments Lab 1.1, Lab 1.2, and Lab 1.3 shown below. Then, you are invited to reflect on your experiences in a Markdown file given in this repository.
 
-1. Lab 1.1: "What is Shell?"
-2. Lab 1.2: "Common Linux Privesc" 
-3. Lab 1.3: "Linux PrivEsc"
+1. Lab 1.1: [Introduction to the Shell](https://tryhackme.com/jr/alleghenyintrotoshellswy)
+2. Lab 1.2: [Common Linux Privesc](https://tryhackme.com/jr/commonlinuxprivescso)
+3. Lab 1.3: [Linux PrivEsc](https://tryhackme.com/jr/alleghenylinuxprivescit)
 
 ## Required Deliverables
 
